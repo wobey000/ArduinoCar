@@ -1,2 +1,2 @@
 # Arduino Car Code
-Embedded Systems Car Design for ECGR 2252: ECE Design I 
+Embedded Systems Car Code for ECGR 2252: ECE Design I 
